@@ -1,1 +1,0 @@
-# sophia-test
